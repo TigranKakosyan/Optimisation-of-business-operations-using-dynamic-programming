@@ -1,0 +1,2 @@
+# Optimisation-of-business-operations-using-dynamic-programming
+The problem involves distributing two types of resources among seven companies in an optimal way to achieve maximum profit. In this specific problem, I used Bellman’s optimality principle, which helped me decompose the problem into seven smaller subproblems, making it easier to solve. The entire solution was fully automated in Python.
